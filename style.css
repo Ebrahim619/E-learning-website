@@ -40,3 +40,9 @@
 .cs{
     margin: 3% 0 0 45%;
 }
+/* footer */
+.f-color{
+    background-color: #161616;
+    height: 300px;
+    color: #ffffff;
+}
